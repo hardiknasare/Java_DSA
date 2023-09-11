@@ -2,3 +2,4 @@
 
 
 1) Dt 8/9 - Reverse a String
+2) Dt 11/9 - Palindrome Check
