@@ -18,7 +18,6 @@ public class PalindromeCheck {
             }
             System.out.println("Enter 1 to check other String.");
         }while(sc.nextInt() == 1 );
-
         sc.close();
     }
 }
