@@ -22,6 +22,8 @@ public class ReverseString {
 		}
 		
 		System.out.println("reversed == "+reversedString);
+		
+		sc.close();
 	}
 
 }
